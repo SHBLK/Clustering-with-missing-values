@@ -1,0 +1,40 @@
+.n EmpiricalError_Optimal 4.875
+ 
+.n EmpiricalError_SubOptimalPmax 6.5         6.5       6.375       6.375         5.5         5.5         5.5         5.5           5           5       4.875
+ 
+.n EmpiricalError_SubOptimalPseed 8.75        8.75        7.25        7.25        5.25        5.25         4.5         4.5           5           5           5
+ 
+.n EmpiricalError_FCM 9.5
+ 
+.n EmpiricalError_KM 12.375
+ 
+.n EmpiricalError_HieSi 43.125
+ 
+.n EmpiricalError_HieCo 17
+ 
+.n EmpiricalError_Random 40.5
+ 
+.n EmpiricalError_Std_Optimal 6.2519
+ 
+.n EmpiricalError_Std_SubOptimalPmax 9.2126      9.2126      9.0573      9.0573      8.2275      8.2275      8.2275      8.2275      6.5044      6.5044      6.2519
+ 
+.n EmpiricalError_Std_SubOptimalPseed 9.6576      9.6576      8.4694      8.4694      6.4001      6.4001        5.97        5.97      6.4051      6.4051      6.4051
+ 
+.n EmpiricalError_Std_FCM 6.0764
+ 
+.n EmpiricalError_Std_KM 9.1978
+ 
+.n EmpiricalError_Std_HieSi 6.1694
+ 
+.n EmpiricalError_Std_HieCo 12.5983
+ 
+.n EmpiricalError_Std_Random 6.2839
+ 
+.n EmpiricalError_FCM_OPS 13.75
+ 
+.n EmpiricalError_KP 8.875
+ 
+.n EmpiricalError_Std_FCM_OPS 16.3985
+ 
+.n EmpiricalError_Std_KP 8.6593
+ 

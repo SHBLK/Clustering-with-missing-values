@@ -1,0 +1,20 @@
+.n EmpiricalError_BayesOptimal 4.875
+ 
+.n EmpiricalError_BayesSubOptimal_Pmax 6.5         6.5       6.375       6.375         5.5         5.5         5.5         5.5           5           5       4.875
+ 
+.n EmpiricalError_BayesSubOptimal_Pseed 8.75        8.75        7.25        7.25        5.25        5.25         4.5         4.5           5           5           5
+ 
+.n EmpiricalError_FuzzyCMeans 9.5
+ 
+.n EmpiricalError_KMeans 12.375
+ 
+.n EmpiricalError_Hierarchical_Single 43.125
+ 
+.n EmpiricalError_Hierarchical_Complete 17
+ 
+.n EmpiricalError_Random 40.5
+ 
+.n EmpiricalError_KPod 8.875
+ 
+.n EmpiricalError_FuzzyCMeans_OPS 13.75
+ 

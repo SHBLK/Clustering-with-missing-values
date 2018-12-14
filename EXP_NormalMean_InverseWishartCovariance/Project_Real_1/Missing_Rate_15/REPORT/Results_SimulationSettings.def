@@ -1,0 +1,16 @@
+.n MissingRate 0.15
+ 
+.n CalibrationSize 90
+ 
+.n NumberSamples 10  10
+ 
+.s ProjectName Project_Real_Var__Mean_1
+ 
+.n NumberTestingSets 40
+ 
+.s ParForMode on
+ 
+.s GenerateSamples on
+ 
+.s SpaceSearchSuboptimal AllCandidates
+ 
