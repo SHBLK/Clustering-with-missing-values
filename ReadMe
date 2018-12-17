@@ -1,0 +1,3 @@
+Run_real_data: Run file for the real data example in the paper (Fig. 4(a)).
+
+Run_6_1: Run file for the Gaussian means and inverse-Wishart covariances model. Simulatin setup corresponding to Fig. 3(c).
